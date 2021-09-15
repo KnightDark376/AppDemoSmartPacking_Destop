@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormCACarPacking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCACaterogy2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCACaterogy3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMNCamera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMNCardRfid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMNInOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMNTicketMonth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSTCamera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSTControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSTManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSTRfid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
